@@ -1,0 +1,22 @@
+{
+  "name": "@latteswap/latteswap-config",
+  "version": "0.0.1",
+  "description": "◦ The LatteSwap config",
+  "main": "prod.json",
+  "files": [
+    "develop.json",
+    "prod.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/latteswap-official/latteswap-config.git"
+  },
+  "keywords": [
+    "latteswap",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "Mint Chocolate Frappuccino Barista",
+  "license": "GPL-3.0-or-later"
+}
