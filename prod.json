@@ -32,5 +32,8 @@
   "BoosterConfig": "",
   "LatteNFT": "",
   "BeanBag": "0x184387c9CAb4a55Dc52952dBD28DfdEea3fB12b9",
-  "MultiCall": "0x41263cba59eb80dc200f3e2544eda4ed6a90e76c"
+  "MultiCall": "0x41263cba59eb80dc200f3e2544eda4ed6a90e76c",
+  "WnativeRelayer": "",
+  "LatteMarket": "",
+  "OGNFT": ""
 }
