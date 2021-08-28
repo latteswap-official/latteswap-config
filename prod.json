@@ -28,6 +28,11 @@
     "BUNNY": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
     "DOGE": "0xba2ae424d960c26247dd6c32edc70b295c744c43"
   },
+  "OGOwnerToken": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
   "Booster": "",
   "BoosterConfig": "",
   "LatteNFT": "",
