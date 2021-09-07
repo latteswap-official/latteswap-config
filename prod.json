@@ -40,5 +40,7 @@
   "MultiCall": "0x41263cba59eb80dc200f3e2544eda4ed6a90e76c",
   "WnativeRelayer": "",
   "LatteMarket": "",
-  "OGNFT": ""
+  "OGNFT": "",
+  "OGNFTOffering": "",
+  "TripleSlopPriceModel": ""
 }
