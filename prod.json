@@ -1,13 +1,16 @@
 {
-  "ProxyAdmin": "",
-  "Timelock": "",
-  "Factory": "",
-  "Router": "",
-  "MasterBarista": "",
+  "ProxyAdmin": "0x02AF4337792a44aFb4005d57c36f9C3Bea6209bb",
+  "Timelock": "0x813879B5556B73c02A139e0340A33239C047957D",
+  "Factory": "0x4DcE5Bdb81B8D5EdB66cA1b8b2616A8E0Dd5f807",
+  "Router": "0x4Ec82EcD19529ff50a467F522029f69459bf071d",
+  "MasterBarista": "0xbCeE0d15a4402C9Cc894D52cc5E9982F60C463d6",
   "LatteVault": "",
   "InitCodeHash": "0xd186cd0235b0839707c25b5e4a518a7e67159a1c74f36680d920c0d82097db36",
+  "LP": {
+    "PCS_LATTE-BUSD": "0xc019ca579efa75be917f38afb1113030c06ba035"
+  },
   "Tokens": {
-    "LATTE": "",
+    "LATTE": "0x8D78C2ff1fB4FBA08c7691Dfeac7bB425a91c81A",
     "BUSD": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
     "WBNB": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "ETH": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
@@ -26,21 +29,23 @@
     "BAKE": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
     "BANANA": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
     "BUNNY": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
-    "DOGE": "0xba2ae424d960c26247dd6c32edc70b295c744c43"
+    "DOGE": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+    "USDC": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "USDT": "0x55d398326f99059ff775485246999027b3197955"
   },
   "OGOwnerToken": {
-    "0": "",
-    "1": "",
-    "2": ""
+    "1": "0x1fb7089764286259857d56ff54ac98620Dbc3Cac",
+    "2": "0xf685a53b010bf8Fe5Ad88b35bee7976CD2aD2dCc",
+    "3": "0xc08C86C0Bc48eCDd5E08315098DC3c74cB11639D"
   },
-  "Booster": "",
-  "BoosterConfig": "",
-  "LatteNFT": "",
-  "BeanBag": "0x184387c9CAb4a55Dc52952dBD28DfdEea3fB12b9",
+  "Booster": "0xfE663C8C580832A916F8D9e9fF8e13Cb814Ec14d",
+  "BoosterConfig": "0xdeAaFFD54d11B3dfa50E7A4b178E045ab750e4eA",
+  "LatteNFT": "0xB5A835b9E4aE76AEA930831B84eB74293309e059",
+  "BeanBag": "0xfEEe007EE647440B696f96859529068d45Fa8780",
   "MultiCall": "0x41263cba59eb80dc200f3e2544eda4ed6a90e76c",
-  "WnativeRelayer": "",
-  "LatteMarket": "",
-  "OGNFT": "",
-  "OGNFTOffering": "",
-  "TripleSlopPriceModel": ""
+  "WnativeRelayer": "0x72F657625077e53C5f55605a3a53966927408530",
+  "LatteMarket": "0x288f26D5Ed901e290D713Db86142302AF8266b31",
+  "OGNFT": "0x7F5dAF18a06433c87Bd81Ea7eA19976e64100A66",
+  "OGNFTOffering": "0xa4FD125A4384faf310c1e8F7b3cE87e8b423B100",
+  "TripleSlopPriceModel": "0x320E66A70B2Ec767f97Ad974Ef4aA4D7f6bCA53c"
 }
