@@ -7,7 +7,8 @@
   "LatteVault": "",
   "InitCodeHash": "0xd186cd0235b0839707c25b5e4a518a7e67159a1c74f36680d920c0d82097db36",
   "LP": {
-    "PCS_LATTE-BUSD": "0xc019ca579efa75be917f38afb1113030c06ba035"
+    "PCS_LATTE-BUSD": "0xc019ca579efa75be917f38afb1113030c06ba035",
+    "PCS_LATTEv2-BUSD": "0xa82a0b7bacf3fde41802b1ec32065e518958c715"
   },
   "Tokens": {
     "LATTE": "0x8D78C2ff1fB4FBA08c7691Dfeac7bB425a91c81A",
