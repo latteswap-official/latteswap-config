@@ -54,5 +54,7 @@
   "OGNFTOffering": "0x360946e5d90eb6Be5931D88A152E43146415da5E",
   "TripleSlopPriceModel": "0x9d7023156F7B9EEe5d2217fE8bba2925C1051923",
   "DripBar": "0xe26067221a286EC1D3A914E192641513883A4b36",
-  "BeanBagV2": "0x9223d19aCd35e385A61d26DC39E0a7f27efE5d4f"
+  "BeanBagV2": "0x9223d19aCd35e385A61d26DC39E0a7f27efE5d4f",
+  "RandomNumberGenerator": "",
+  "SurvivalGame": ""
 }
