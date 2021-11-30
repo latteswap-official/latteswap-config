@@ -62,5 +62,8 @@
   "DripBar": "0xF4Bb273761E8AFB98E9628D68C5816687150a867",
   "BeanBagV2": "0x498A9a097291852eDbfed7dFfFf807356BA7aEbe",
   "RandomNumberGenerator": "0x2A9cFD73b947eA28CBd0988e7C2Aae35e84dAC0e",
-  "SurvivalGame": "0x3b30b177793dd6009f06156CDc4d21d071be24B8"
+  "SurvivalGame": "0x3b30b177793dd6009f06156CDc4d21d071be24B8",
+  "Oracle": {
+    "OffChain": ""
+  }
 }
