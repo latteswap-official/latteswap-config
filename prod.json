@@ -65,5 +65,11 @@
   "SurvivalGame": "0x3b30b177793dd6009f06156CDc4d21d071be24B8",
   "Oracle": {
     "OffChain": ""
-  }
+  },
+  "Clerk": "",
+  "FLAT": "",
+  "FlatYieldStrategy": {},
+  "TreasuryHolder": "",
+  "FlatMarketConfig": "",
+  "FlatMarket": {}
 }
