@@ -64,8 +64,11 @@
   "RandomNumberGenerator": "0x2A9cFD73b947eA28CBd0988e7C2Aae35e84dAC0e",
   "SurvivalGame": "0x3b30b177793dd6009f06156CDc4d21d071be24B8",
   "Oracle": {
-    "OffChain": ""
+    "OffChain": "",
+    "Chainlink": "",
+    "Composite": ""
   },
+  "ChainlinkAggregator": {},
   "Clerk": "",
   "FLAT": "",
   "FlatYieldStrategy": {},
