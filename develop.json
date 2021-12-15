@@ -66,7 +66,7 @@
   "Oracle": {
     "OffChain": "0x8474BE3314EDD429993B4948f3c5059F124139E8",
     "Chainlink": "0x241c377eEC3e30F7581515d28C5DF7f308408ff7",
-    "Composite": "0x00ddb6aaDe2E4fECba1Cc4127E02332D667Aac83"
+    "Composite": "0x554F4Ed695D801B2c2cceC0a9927977C264A50fb"
   },
   "ChainlinkAggregator": {
     "USDT-BUSD": "0x05E333588fD7A75529Fd223882a053Aa8f9C71ae"
