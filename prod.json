@@ -69,12 +69,22 @@
     "Composite": "0x268c4c75D63a928E43Ef1985aF8dE859E14F666A"
   },
   "ChainlinkAggregator": {
-    "USDT-BUSD": "0x167a0Dab266065c14503d0e9dEE98e8c616F1922"
+    "USDT-BUSD": "0x167a0Dab266065c14503d0e9dEE98e8c616F1922",
+    "PCS_USDT-BUSD": "0xE3D87cBD5272F972d229fc92accD7d4b0249CBD2"
   },
   "Clerk": "0x9A80d1D6f577C98bC7BF033593A7e72BE589DC14",
   "FLAT": "0x0C4504480F3d6A05614D6166BCE81Fc9e3587dba",
-  "FlatYieldStrategy": {},
+  "FlatYieldStrategy": {
+    "LatteSwap": {
+      "USDT-BUSD": "0xF81D47Fc441201ec26e36af4Ee8768828b4651Ef"
+    },
+    "PCS": {
+      "USDT-BUSD": "0xce4b067b319F449c998A91a5D1DebA5b74e968E3"
+    }
+  },
   "TreasuryHolder": "0x2A27bEa31e0b16B36fDA0d81373168De4aace7dC",
   "FlatMarketConfig": "0xe195878c58Bc1A7eb539a63ab8c5B3c6f3707F25",
-  "FlatMarket": {}
+  "FlatMarket": {
+    "USDT-BUSD": "0x71F5D0e4752140df41EC25010652d5Bf3230ddE9"
+  }
 }
