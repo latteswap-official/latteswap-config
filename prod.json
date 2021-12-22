@@ -70,7 +70,7 @@
   },
   "ChainlinkAggregator": {},
   "Clerk": "",
-  "FLAT": "",
+  "FLAT": "0x0C4504480F3d6A05614D6166BCE81Fc9e3587dba",
   "FlatYieldStrategy": {},
   "TreasuryHolder": "",
   "FlatMarketConfig": "",
