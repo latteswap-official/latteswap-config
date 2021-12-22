@@ -64,12 +64,12 @@
   "RandomNumberGenerator": "0x2A9cFD73b947eA28CBd0988e7C2Aae35e84dAC0e",
   "SurvivalGame": "0x3b30b177793dd6009f06156CDc4d21d071be24B8",
   "Oracle": {
-    "OffChain": "",
-    "Chainlink": "",
-    "Composite": ""
+    "OffChain": "0xb9ed72e920A04815db745bFd802f3134658a6D8d",
+    "Chainlink": "0x9d028e8274D23Bd65AF2e3Dbb3455aA1f8C4857B",
+    "Composite": "0x268c4c75D63a928E43Ef1985aF8dE859E14F666A"
   },
   "ChainlinkAggregator": {},
-  "Clerk": "",
+  "Clerk": "0x9A80d1D6f577C98bC7BF033593A7e72BE589DC14",
   "FLAT": "0x0C4504480F3d6A05614D6166BCE81Fc9e3587dba",
   "FlatYieldStrategy": {},
   "TreasuryHolder": "",
