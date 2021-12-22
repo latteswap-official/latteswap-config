@@ -68,7 +68,9 @@
     "Chainlink": "0x9d028e8274D23Bd65AF2e3Dbb3455aA1f8C4857B",
     "Composite": "0x268c4c75D63a928E43Ef1985aF8dE859E14F666A"
   },
-  "ChainlinkAggregator": {},
+  "ChainlinkAggregator": {
+    "USDT-BUSD": "0x167a0Dab266065c14503d0e9dEE98e8c616F1922"
+  },
   "Clerk": "0x9A80d1D6f577C98bC7BF033593A7e72BE589DC14",
   "FLAT": "0x0C4504480F3d6A05614D6166BCE81Fc9e3587dba",
   "FlatYieldStrategy": {},
